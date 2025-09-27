@@ -18,16 +18,6 @@
 
 ---
 
-### 💻 Projetos em destaque
-
-- 🔗 [**task-manager-api-flask**](https://github.com/bronzefloo/api_novo.git)  
-  API REST para colocação de livros com autenticação JWT e SQLite
-
-- 🔗 [**front-end-curso-responsivo**](https://github.com/bronzefloo/desafiofinal.git)  
-  Front-end responsivo de uma plataforma educacional fictícia com SCSS e JS
-
----
-
 ### 🚀 Sobre mim
 
 🎓 Formada em Pedagogia (UFRJ) e estudante de Sistemas de Informação (Uninter)  
@@ -43,9 +33,5 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/isabellamartins65)  
 
 ---
-
-
-<!---
-bronzefloo/bronzefloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
